@@ -1,0 +1,3 @@
+< Token Error
+	--> requesting a JSON file but the file's response is not in JSON , maybe HTML. This can be resolved either by adding the Babel 		preset or changing the parsing format to .text()
+ 
